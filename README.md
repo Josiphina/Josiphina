@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Josiphina and I'm currently working on creating a feminist learning assistance AI within the project AIceberg by Decentrale and Birne 7
-- 👀 I’m interested in Data Science, Machine learning , AI and feminism
-- 🌱 I know Python and C++ 
-- 💞️ I’m looking to collaborate on social and/or feminist AI projects 
+- 👋 Hi, I’m @Josiphina and I'm studying and working as a Data Scientist on different projects in the social & public sector, but also medical sector and for earth observation.
+- 👀 I’m interested in Data Science, Machine learning , AI and feminism.
+- 🌱 The language I used mainly is Python.
 - 📫 How to reach me : thielejosephina@gmail.com
 
 <!---
